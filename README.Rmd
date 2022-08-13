@@ -25,7 +25,9 @@ The goal of foo is to ...
 You can install the development version of foo like so:
 
 ``` r
-# FILL THIS IN! HOW CAN PEOPLE INSTALL YOUR DEV PACKAGE?
+# HTTPS: https://github.com/jurossimora/foo.git
+# SSH: git@github.com:jurossimora/foo.git
+# To install remotely: remotes::install_github("jurossimora/foo")
 ```
 
 ## Example
